@@ -1,4 +1,4 @@
-## Oiii eu sou a Bruno Cavalcanti, amante de sociologia e tecnologia!
+## Olá eu sou a Bruno Cavalcanti, amante de sociologia e tecnologia!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="h1n1-K8s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
