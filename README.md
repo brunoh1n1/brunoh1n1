@@ -62,14 +62,15 @@
 ## 📝 Últimos Posts do Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Título do Post 1](link-do-post-1)
-- [Título do Post 2](link-do-post-2)
-- [Título do Post 3](link-do-post-3)
+- [Automatizando a Observabilidade de Custos AWS com n8n, Lambda e IA](https://medium.com/@bruno-cavalcanti-sre/automatizando-a-observabilidade-de-custos-aws-com-n8n-lambda-e-ia-1073dc8bf8ae)
+- [Como instalar e rodar o LiteLLM com Docker, Helm e ArgoCD](https://medium.com/@bruno-cavalcanti-sre/como-instalar-e-rodar-o-litellm-com-docker-helm-e-argocd-79f011d7820e)
+- [Captura e envio de imagem via Telegram](https://medium.com/@bruno-cavalcanti-sre/captura-e-envio-de-imagem-via-telegram-1a83996d2744)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Objetivos Atuais
 
-- [ ] Certificação AWS Solutions Architect Professional
+- [x] Certificação AWS Solutions Architect Professional
+- [ ] Certificação AWS Advanced Networking Specialty
 - [ ] Certificação CKA (Certified Kubernetes Administrator)
 - [ ] Implementar observabilidade em larga escala
 - [ ] Contribuir mais com projetos open source
