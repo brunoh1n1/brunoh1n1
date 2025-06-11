@@ -1,7 +1,7 @@
 # Olá, eu sou Bruno! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8BC0&center=true&vCenter=true&width=600&height=100&lines=SRE+%7C+DevOps+%7C+Cloud+Engineer;Infraestrutura+%7C+Automa%C3%A7%C3%A3o+%7C+Observabilidade" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8BC0&center=true&vCenter=true&width=900&height=100&lines=SRE+%7C+DevOps+%7C+Cloud+Engineer;Infraestrutura+%7C+Automa%C3%A7%C3%A3o+%7C+Observabilidade" alt="Typing SVG" />
 </div>
 
 <p align="center">
