@@ -18,27 +18,24 @@
   <img align="center" alt="h1n1-Argo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg">
   <img align="center" alt="h1n1-ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
   <img align="center" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" title="MySQL" alt="Mysql" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" title="PostgreSQL" alt="PostgreSQL" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" title="Docker" alt="Docker" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" title="AWS" alt="AWS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" title="bash" alt="bash" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" title="centos" alt="centos" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg">
+  <img align="center" title="Tux" alt="Linux" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" title="Terraform" alt="Terraform" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
   <img align="center" title="Prometheus" alt="Prometheus" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
   <img align="center" title="Grafana" alt="Grafana" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
 </div>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=brunoh1n1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoh1n1&layout=compact&langs_count=7&theme=algolia&hide=java,objective-c%2B%2B,objective-c,ruby,starlark"/>
-</div>
-
-## 🏆 Conquistas
+## 🏆 Conquistas & Estatísticas
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=brunoh1n1&theme=algolia&row=1&column=7&no-frame=true&no-bg=true" />
+  <br><br>
+  <img src="https://img.shields.io/github/followers/brunoh1n1?label=Seguidores&style=social" />
+  <img src="https://img.shields.io/github/contributions/this-year/brunoh1n1?label=Contribui%C3%A7%C3%B5es%20este%20ano" />
+  <img src="https://img.shields.io/github/stars/brunoh1n1?style=social" />
 </div>
 
 ## 📈 Contribuições
