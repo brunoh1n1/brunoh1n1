@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  Sou um Site Reliability Engineer (SRE), formado em Redes e estudante de Sociologia.
+  Sou um Site Reliability Engineer (SRE), formado em Redes e estudante de Economia!
   <br/>
   <br/>
   Movido pela curiosidade, amo tecnologia e inovação. Interesso-me por projetos inovadores e de alto impacto, visando fazer a diferença!
