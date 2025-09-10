@@ -71,7 +71,7 @@
 
 - [x] Certificação AWS Solutions Architect Professional
 - [ ] Certificação AWS Advanced Networking Specialty
-- [ ] Certificação CKA (Certified Kubernetes Administrator)
+- [x] Certificação CKA (Certified Kubernetes Administrator)
 - [ ] Implementar observabilidade em larga escala
 - [ ] Contribuir mais com projetos open source
 
